@@ -1,1 +1,1 @@
-condition ? console.log("pro") : co;
+condition ? console.log(`con`) : co;
