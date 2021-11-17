@@ -1,0 +1,1 @@
+condition ? console.log("pro") : co;
